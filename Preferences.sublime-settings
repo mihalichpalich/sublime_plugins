@@ -1,0 +1,65 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete": false,
+	"bold_folder_labels": true,
+	"class": "sidebar_container",
+	"color_scheme": "Packages/User/Color Highlighter/themes/LAZY.tmTheme",
+	"content_margin":
+	[
+		0,
+		0,
+		1,
+		0
+	],
+	"default_line_ending": "unix",
+	"draw_white_space": "all",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"layer0.draw_center": false,
+	"layer0.inner_margin":
+	[
+		0,
+		0,
+		1,
+		0
+	],
+	"layer0.opacity": 1.0,
+	"layer0.tint":
+	[
+		60,
+		60,
+		60
+	],
+	"rulers":
+	[
+		30,
+		80,
+		120
+	],
+	"save_on_focus_lost": true,
+	"shift_tab_unindent": true,
+	"show_encoding": true,
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
+	"spell_check": true,
+	"tab_size": 2,
+	"theme": "Soda Light 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
+	"word_wrap": true
+}

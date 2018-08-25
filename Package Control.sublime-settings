@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Babel",
+		"BracketHighlighter",
+		"Can I Use",
+		"Chain of Command",
+		"Color Highlighter",
+		"CSSTidy",
+		"Emmet",
+		"Git",
+		"GoImports",
+		"LESS",
+		"Package Control",
+		"ReactJS",
+		"RegReplace",
+		"SideBarEnhancements",
+		"SideBarHider",
+		"SidebarHoverToggle",
+		"SublimeLinter-jsxhint",
+		"SublimeServer",
+		"Theme - Soda"
+	]
+}
